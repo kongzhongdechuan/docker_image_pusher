@@ -1,2 +1,2 @@
 
-bitnami/minio
+minio/minio
