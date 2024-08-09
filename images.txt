@@ -1,1 +1,1 @@
-mysql
+zookeeper:3.4.14
