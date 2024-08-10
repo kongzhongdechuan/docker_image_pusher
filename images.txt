@@ -1,1 +1,1 @@
- wurstmeister/kafka
+elasticsearch
